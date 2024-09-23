@@ -1,16 +1,12 @@
-## Hi there 👋
+# 👋 Hi, I'm Pal Patel!
 
-<!--
-**paldpatel/paldpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Education**  
+- **Bachelor of Science** in Computer Science | Memorial University of Newfoundland  
+  - Major: Computer Science (GPA: 3.5 in CS courses)  
+  - Minor: Business Administration
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Skills**  
+- **Programming Languages**: HTML, JavaScript, CSS, Python, C, C++, Verilog, ARM  
+- **Libraries & Frameworks**: MySQL, MongoDB, Pandas, React  
+- **Tools**: Git, GitHub, VS Code, BlueJ, Unreal Engine, PyCharm, MySQL Workbench  
+- **Business Management**: Financial statement creation, marketing strategy, organizational behavior
