@@ -10,3 +10,5 @@
 - **Libraries & Frameworks**: MySQL, MongoDB, Pandas, React  
 - **Tools**: Git, GitHub, VS Code, BlueJ, Unreal Engine, PyCharm, MySQL Workbench  
 - **Business Management**: Financial statement creation, marketing strategy, organizational behavior
+
+👋 Hi, I'm **Pal Patel**, a passionate Computer Science student at Memorial University of Newfoundland, currently pursuing my Bachelor of Science with a major in Computer Science and a minor in Business Administration. With a GPA of 3.5 in computer science courses, I'm dedicated to learning, growing, and building impactful tech solutions
