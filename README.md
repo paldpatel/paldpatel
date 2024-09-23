@@ -6,7 +6,7 @@
   - Minor: Business Administration
 
 💻 **Skills**  
-- **Programming Languages**: HTML, JavaScript, CSS, Python, C, C++, Verilog, ARM  
+- **Programming Languages**: Python, HTML, JavaScript, CSS, C, C++, Verilog, ARM  
 - **Libraries & Frameworks**: MySQL, MongoDB, Pandas, React  
 - **Tools**: Git, GitHub, VS Code, BlueJ, Unreal Engine, PyCharm, MySQL Workbench  
 - **Business Management**: Financial statement creation, marketing strategy, organizational behavior
